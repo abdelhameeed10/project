@@ -1,0 +1,205 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #000000;
+}
+
+.main-content{
+	 background-image: url(./openn.jpg);
+	 background-size: 100%;
+	 width: 1250px;
+	 height:640px;
+	 margin: auto;
+
+}
+
+.header{
+	height: 100px;
+}
+
+#logo{
+	width: 170px;
+	margin-top: 30px;
+	float: left;
+}
+
+.top-menu{
+	float: right;
+	margin-top: 43px;
+}
+
+
+.top-menu  img {
+	margin-left: 20px;
+}    
+
+
+.main-text {
+	width: 390px;
+    margin-top: 50px;
+}
+
+.main-text h1 {
+	color: #3DC6EF;
+	font-size: 2.5em;
+	font-weight: 100;
+	margin-bottom: 20px;
+}
+
+.main-text p {
+	color: #d1d1d1;
+	font-size: 13px;
+	margin-bottom: 20px;
+	line-height: 140% ;
+}
+
+
+
+.main-text button {
+	color: #3DC6EF;
+	font-size: 0.9em;
+	background-color: black;
+	border: 2px solid  #3DC6EF;
+	padding: 8px;
+
+}
+
+.main-text button:hover{
+	background-color:  #3DC6EF;
+	color: black;
+}
+
+
+.middle-bar{
+	height: 120px;
+	position: absolute;
+	left: 0;
+	width: 100%;
+	margin-top: 70px;
+}
+
+.left-rect{
+	width: 21%;
+	height: 100%;
+	background-color: #007db8;
+	float: left;
+}
+
+
+
+
+.right-rect{
+	width: 69%;
+	height: 100%;
+	background-color: #007db8;
+	float: right;
+}
+
+.middle-bar-content{
+	padding: 0;
+	margin-top: 25px;
+	position: absolute;
+	width: 69%;
+	height: 100%;
+	left: 22%;
+
+}
+
+.middle-bar-content li{
+	width: 110px;
+	list-style: none;
+	float: left;
+	margin-right: 25px;
+	text-align: center;
+}
+
+.middle-bar-content img{
+	width: 50%
+}
+
+.middle-bar-content  span{
+	color: #ffffff;
+	font-size: 0.65em
+}
+.ones-list{
+	margin: 0 auto;
+	margin-top: 210px;
+
+}
+
+.one{
+	float: left;
+	color: #ffd220;
+	font-size: 70px;
+}
+
+.hash{
+	font-size: 30px;
+	
+}
+.ones-text{
+	color: #e1e1e1;
+	font-size: 15px;
+	padding-top: 20px;
+}
+.one-group{
+	float: left;
+	width: 32%;
+	margin-left: 10px;
+}
+
+
+
+
+.learn-more{
+	color: #3DC6EF;
+	font-size: 11px;
+	text-decoration: none;
+}
+
+.learn-more:hover{
+	color: #3DC6EF;
+	font-size: 11px;
+	text-decoration: none;
+}
+
+.footer{
+	width: 1270px;
+	margin: 50px  auto;
+	font-size: 13px;
+}
+
+ .footer a{
+ 	text-decoration: none;
+ 	color: #808080;
+ }
+.footer a:hover{
+	text-decoration: underline;
+}
+
+
+
+#footer-dell{
+	content: #e1e1e1
+}
+
+.footer img{
+	float: right;
+	margin-bottom: : 2px;
+}
+
+
+.footer div{
+	float: right;
+}
+
+.footer div a {
+	margin-right: 20px;
+}
+
+.footer span{
+	color: #808080;
+	margin-right: 10px;
+
+}
